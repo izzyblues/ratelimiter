@@ -1,2 +1,2 @@
 # ratelimiter
-Golang HTTP middelware that implement rate limiters
+Golang HTTP middleware that implements rate limiters
